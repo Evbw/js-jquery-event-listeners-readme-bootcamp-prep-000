@@ -1,4 +1,8 @@
-//define functions here
+function getIt() {
+  $(p).('click', function()
+  return "Hey!"
+  )
+}
 
 $(document).ready(function(){
 
